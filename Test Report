@@ -1,0 +1,34 @@
+Name	About	Labels	Assignees
+🪲 Failing test	Did you find a failing test in our CI? Report your findings here.	type: failing_test	
+Welcome 👋
+Thanks for taking the time to fill out this issue.
+Please fill out each section below. This info allows TEN Wallet maintainers to triage and fix the failing test(s) as quickly as possible.
+
+Useful links:
+
+Preliminary Checks
+Please make sure that you verify each checkbox and follow the instructions for them.
+
+ This issue is not a duplicate. Before opening a new issue, please search existing issues: https://github.com/TENWallet
+ This issue is not a question, feature request, RFC, or anything other than a bug report. Please post those things in GitHub Discussions: https://github.com/TENWallet *
+Summary
+List which test(s) are failing, and describe how you expect them to behave.
+
+Steps to replicate this Issue
+How can the problem be replicated? Are there any additional steps required?
+
+1.
+2.
+3.
+...
+
+Console output
+Paste the output of the test(s) here.
+
+Platform
+Which platform do you use? Are there any special flags you are using?
+
+Platform: Ubuntu 21.04
+FLAGS: --XPTO=1
+Build link(s)
+Provide the CI's URL where the build is failing
